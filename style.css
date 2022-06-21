@@ -1,0 +1,60 @@
+.navbar {
+    background-color: #acc3a6;
+
+}
+
+.pina {
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+
+.rumah {
+    margin-top: 50px;
+    background-color: #f5d6ba;
+    padding-bottom: 20px;
+}
+
+.over {
+    background-color: #f49d6e;
+}
+
+.garis {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-bottom: 35px;
+    border-radius: 50px;
+}
+
+.garisfooter {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #999;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+    border-radius: 50px;
+}
+
+.list-group {
+    background-color: #f49d6e;
+    border-radius: 25px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+.bawah {
+    padding-top: 20px;
+}
+
+.footer {
+    margin-top: 20px;
+
+}
